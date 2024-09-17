@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class ItemCounter {
+public class Review4 {
 
     public static void main(String[] args) throws IOException {
         // Create Scanner object for user input
