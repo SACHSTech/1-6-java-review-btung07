@@ -3,9 +3,15 @@ package gr11review.part1;
 import java.io.*;
 import java.util.Scanner;
 
+/*
+ * add your javadocs and header here
+ */
 public class Review1 {
 
 
+    /*
+     * add another javadoc for main method here
+     */
     public static void main(String[] args) throws IOException {
         // Create Scanner object for user input
         Scanner scanner = new Scanner(System.in);
